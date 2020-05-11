@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalsTriangle", "PascalsT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalsTriangleWpf", "PascalsTriangleWpf\PascalsTriangleWpf.csproj", "{010AAD95-4970-406F-9702-258F9EB6889B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resource", "Resource", "{BD4A29D6-0BEA-46BC-AA49-66D5BA151874}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\Pascal's triangle.nb = ..\..\..\Desktop\Pascal's triangle.nb
+		..\..\..\Desktop\Pascal's triangle.xlsx = ..\..\..\Desktop\Pascal's triangle.xlsx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
